@@ -25,5 +25,4 @@ A **travel website landing page** designed and developed using **Tailwind CSS**.
 
 ---
 
-## 📁 Project Structure
 
